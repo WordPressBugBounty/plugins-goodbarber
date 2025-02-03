@@ -4,6 +4,7 @@ class GB_JSON_API {
     public $query;
     public $introspector;
     public $response;
+    public $controller;
 
   function __construct() {
     $this->query = new GB_JSON_API_Query();

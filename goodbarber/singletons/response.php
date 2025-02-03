@@ -4,8 +4,8 @@ class GB_JSON_API_Response {
   
   function setup() {
     global $gb_json_api;
-    $this->include_values = array();
-    $this->exclude_values = array();
+    $include_values = array();
+    $exclude_values = array();
     if ($gb_json_api->query->include) {
       $this->include_values = explode(',', $gb_json_api->query->include);
     }

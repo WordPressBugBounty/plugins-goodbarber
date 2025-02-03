@@ -58,5 +58,6 @@ Version 1.0.22 : Adding 6.1 Compliance
 Version 1.0.23 : Adding 6.3 Compliance Tested With php 8.2 
 Version 1.0.24 : Fix potential CSRF issue
 Version 1.0.25 : Validated Compliance with 6.6
+Version 1.0.26 : Validated Compliance with 6.7.1 and php 8.2.26
 == Upgrade notice ==
 

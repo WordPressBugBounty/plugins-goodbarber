@@ -10,6 +10,7 @@ class GB_JSON_API_Author {
   var $nickname;    // String
   var $url;         // String
   var $description; // String
+  var $avatarUrl;
   
   function __construct($id = null) {
     if ($id) {

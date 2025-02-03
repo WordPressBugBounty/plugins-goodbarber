@@ -10,6 +10,7 @@ class GB_JSON_API_Attachment {
   var $caption;     // String
   var $parent;      // Integer
   var $mime_type;   // String
+  var $images;
   
   function __construct($wp_attachment = null) {
     if ($wp_attachment) {
