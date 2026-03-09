@@ -3,7 +3,7 @@ Contributors: dphiffer, goodbarber
 Donate link: http://www.goodbarber.com
 Tags: native apps, iOS, Android, JSON, GoodBarber, apps, iPhone, beautiful apps, duoapps, wmaker, native, pwa, progressive web apps
 Requires at least: 2.8
-Tested up to: 6.6
+Tested up to: 6.9.1
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -60,5 +60,6 @@ Version 1.0.24 : Fix potential CSRF issue
 Version 1.0.25 : Validated Compliance with 6.6
 Version 1.0.26 : Validated Compliance with 6.7.1 and php 8.2.26
 Version 1.0.27 : Security pass for redirection
+Version 1.0.28 : Validated Compliance with 6.9.1 and php 8.3.27
 == Upgrade notice ==
 
